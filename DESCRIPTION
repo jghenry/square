@@ -1,0 +1,11 @@
+Package: squares
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Authors@R: person("James", "Henry", email = "james.gareth.henry@gmail.com", role = c("aut", "cre"))
+Description: This package is for a squares class, with methods to calculate area and perimeter.
+Depends:
+    R (>= 3.3.2)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
