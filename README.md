@@ -1,11 +1,10 @@
-# circle
+# Square
 
 Author: James Henry
 
 Date: Dec 18, 2016
 
 **This repo contains the code to create objects of class square, with a given side length. We can then use the accompanying methods to calculate the area and perimeter of the square**
-
 
 
 **Create object of class square:**
@@ -24,7 +23,7 @@ Date: Dec 18, 2016
 
 ```
 #' area.square() function
-#' @return The area of a square with \code{side} 
+#' @return The area of a square with \code{side}
 #' @examples
 #' area(square(3))
 ```
