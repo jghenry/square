@@ -6,6 +6,7 @@ Date: Dec 18, 2016
 
 **This repo contains the code to create objects of class square, with a given side length. We can then use the accompanying methods to calculate the area and perimeter of the square**
 
+[![Build Status](https://travis-ci.org/jghenry/square.svg?branch=master)](https://travis-ci.org/jghenry/square)
 
 **Create object of class square:**
 
